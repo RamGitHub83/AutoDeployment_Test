@@ -72,8 +72,6 @@ C:\Users\ramachandra.govindav\Source\Repos\AutoDeployment_Test\bin\System.Web.We
 C:\Users\ramachandra.govindav\Source\Repos\AutoDeployment_Test\bin\Newtonsoft.Json.xml
 C:\Users\ramachandra.govindav\Source\Repos\AutoDeployment_Test\bin\Antlr3.Runtime.pdb
 C:\Users\ramachandra.govindav\Source\Repos\AutoDeployment_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ramachandra.govindav\Source\Repos\AutoDeployment_Test\obj\Debug\AutoDeployment_Test.csprojAssemblyReference.cache
-C:\Users\ramachandra.govindav\Source\Repos\AutoDeployment_Test\obj\Debug\AutoDeployment_Test.csproj.CoreCompileInputs.cache
-C:\Users\ramachandra.govindav\Source\Repos\AutoDeployment_Test\obj\Debug\AutoDeployment_Test.csproj.CopyComplete
 C:\Users\ramachandra.govindav\Source\Repos\AutoDeployment_Test\obj\Debug\AutoDeployment_Test.dll
 C:\Users\ramachandra.govindav\Source\Repos\AutoDeployment_Test\obj\Debug\AutoDeployment_Test.pdb
+C:\Users\ramachandra.govindav\Source\Repos\AutoDeployment_Test\obj\Debug\AutoDeployment_Test.csprojResolveAssemblyReference.cache
